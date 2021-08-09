@@ -1,0 +1,9 @@
+*/bin
+*/build
+*/nbproject
+*/.classpath
+*/.project
+*/build.xml
+*/build2.xml
+*/manifest.mf
+*/nb-build.xml
